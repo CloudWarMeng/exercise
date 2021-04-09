@@ -3,4 +3,5 @@
 
 int add(int a, int b);
 int sub( int , int );
+void hotfix();
 #endif
